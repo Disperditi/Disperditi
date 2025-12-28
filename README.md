@@ -6,7 +6,7 @@ My main tech stack is only Python, for now.
 
 Fun Facts:
 
-I don’t like coffee or tea
+I don’t like coffee but i like tea.
 
 Naruto is my favorite anime
 
