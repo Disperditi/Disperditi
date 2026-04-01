@@ -1,15 +1,3 @@
-## Hi there 👋
-
 I’m Disperditi, i am learning programming.
 
-My main tech stack is only Python, for now.
-
-Fun Facts:
-
-I don’t like coffee but i like tea.
-
-Naruto is my favorite anime
-
-I like trying new things
-
-Hobbies: anime, gaming.
+I know how to use Python, SQL, Web Development.
